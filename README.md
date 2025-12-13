@@ -1,16 +1,20 @@
-## Hi there 👋
+# Masa Sabobeh
+Backend Developer | Node.js • NestJS • TypeScript
 
-<!--
-**Masa23-03/Masa23-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I build
+- REST APIs with authentication, validation, and role-based access
+- Database-backed applications using Prisma + MySQL
+- Experience working with MongoDB using Mongoose ODM
+  
+## Tech stack
+Node.js • Express • NestJS • TypeScript • JavaScript  
+Prisma • MySQL • MongoDB (Mongoose) • SQL Server  
+Git • Postman
 
-Here are some ideas to get you started:
+## Featured projects
+- Room Reservation API —  https://github.com/Masa23-03/room-reservation-api
+- Student Course API — https://github.com/Masa23-03/StudentCourseAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- LinkedIn: https://www.linkedin.com/in/masa-sabobeh-18a4a9353/
+- Email: masasabobeh03@gmail.com
