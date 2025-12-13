@@ -1,5 +1,5 @@
 # Masa Sabobeh
-Backend Developer | Node.js • NestJS • TypeScript
+Backend Developer | Node.js, Express, NestJS, TypeScript
 
 ## What I build
 - REST APIs with authentication, validation, and role-based access
