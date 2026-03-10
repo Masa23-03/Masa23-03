@@ -1,5 +1,5 @@
 # Masa Sabobeh
-Backend Developer | Node.js, Express, NestJS, TypeScript
+Backend Developer | Node.js, NestJS, TypeScript
 
 Backend developer focused on building structured REST APIs and database-driven backend systems.
 
